@@ -1,0 +1,15 @@
+FLUXOGRAMA DO PROCESSO DE MODELAGEM
+1.  Levantamento de requisitos : pontos importantes que precisamn está dentro do projeto
+    1.1 uma entrevista com gestores, colaboradores, usuários.
+2. Modelo conceito fazendo o primeiro diagrama
+    2.1 fazendo um fluxograma da regra de negocio
+        2.1.1 usuario 1___< cria >___N partidas
+    2.2 montar o diagrama MER e DER
+3. Fazer perguntas para o time de negocios e usuários
+    3.1 Quais são os objetivos principais deste projeto
+        3.1.1 Nosso objetivo é tornar nossa base de dados mais acessiveis
+    3.2 Quais são os dados que devem ser armazenados e por que ?
+        3.2.1 Possuimos dados pessoais do cliente que devem ser armazenados ?
+        3.2.2 dados  que são uteis além dos pessoais mas que devem ser armazenados e que não possa identificar o cliente
+    3.3 Abstração (isolar os pontos importantes do projeto)
+    

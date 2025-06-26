@@ -1,0 +1,2 @@
+Entidade forte: depende de ninguem para existir, apenas dela mesma
+Entidade fraca: só existe se existir uma outra entidade para justificar sua existencia

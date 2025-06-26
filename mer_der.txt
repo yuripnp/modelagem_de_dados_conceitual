@@ -1,0 +1,21 @@
+Na modelagem  de dados, dois conceitos fundamentais que frequentemente aparecem são:
+1. MER (Modelo Entidade-Relacionamento)
+Abordagem teorica, no MER vamos ter foco em estruturar os dados com entidades, atributos e suas relações de forma escrita
+no banco de dados;
+    1.1 Entidade
+        São objetos ou conceitos do mundo real que possuem dados que precisam ser armazenados
+    1.2 Atributos
+        São as propriedades ou caracteristicas de uma entidade.
+    1.3 Relacionamento 
+        Descrevem como as entidades estão conectadas entre si e interagem
+2. DER (Diagrama Entidade-Relacionamento)
+    é a representação gráfica do MER. O DER utiliza um conjunto de simbolos como triangulos, retangulos e linhas para
+    representar entidades, atributos e suas relações.
+    2.1 Retangulos
+        representa entidades
+    2.2 Losangos
+        representa as relações
+    2.3 Oval
+        representa os atributos
+    2.4 linhas
+        conectão as entidades com seus atributos e Relacionamentos
