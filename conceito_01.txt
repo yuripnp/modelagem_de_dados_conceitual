@@ -1,2 +1,18 @@
 Entidade forte: depende de ninguem para existir, apenas dela mesma
 Entidade fraca: só existe se existir uma outra entidade para justificar sua existencia
+Entidade Associativa: tambem conhecido como tabela junção, uma tabela que serve como ponte entre duas tabelas ou seja, n:m
+
+CARDINALIDADE
+ um aspecto fundamental que descreve como as entidades estão quantitativamente relacionadas 
+ em um banco de dados. Em outras palavras, a cardinalidade define o número de instâncias de uma 
+ entidade que podem ou devem estar associadas a um número de instâncias de outra entidade.
+
+ 1. um-pra-um (1,1)
+    Cada instância de uma entidade está associada a no máximo uma instância da outra entidade.
+
+2. um-pra-muitos (1,N)
+    Uma instância de uma entidade pode estar associada a várias instâncias de outra entidade, 
+    mas uma instância da segunda entidade pode estar associada a no máximo uma instância da primeira entidade.
+
+3. muitos-para-muitos (N,M)
+    Instâncias de uma entidade podem estar associadas a várias instâncias da outra entidade e vice-versa.
